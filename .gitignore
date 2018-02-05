@@ -8,5 +8,4 @@ bot/env/
 dist
 build
 *.bak
-
-
+/venv/
