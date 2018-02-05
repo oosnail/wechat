@@ -1,4 +1,6 @@
 # Python:
+bot/env/
+/.idea/
 *.py[cod]
 *.so
 *.egg
@@ -6,5 +8,5 @@
 dist
 build
 *.bak
-/env/
-/.idea/
+
+
